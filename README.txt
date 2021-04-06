@@ -1,44 +1,34 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-TNW Clone
-
->This is my second web page.
-
-screenshot
 
 
-/home/ivan/Documentos/Project 2/images/screenshot-P2.png
+NTW Clone
+
+This is my second web page clone. It was made only with CSS and HTML. 
 
 
-=======
-## TNW PAGE
->>>>>>> 59e51ca678b4a9438eb9093a9e3bfe9258641ac9
+file:///home/ivan/Documentos/Project%202/images/screenshot-P2_modificada.png
 
 
->This is my second web page cloned. I made it only with HTML & CSS. This project focus in making a project in different sizes.
- 
-## Built With
 
+
+
+This is my first web page cloned. I made it only with HTML & CSS. This project focus give many sizes to a web page.
+
+Built With
 -HTML & CSS
 
-## Live Demo
-
+Live Demo
 https://ivaan1992.github.io/Clone_TNW_Project/
 
 If you click in the link, you can see and read my project.
-It's a very interesting article. And you can see HTML & CSS skills working together. Is awasome. 
+This is my second project using HTML & CSS. 
 
 
-## Authors
+Authors
+bust_in_silhouette ISMAEL IVAN LINARES GAONA
 
-👤 ISMAEL IVAN LINARES GAONA
-
-- GitHub: [ @ivaan1992](https://github.com/ivaan1992)
-- Twitter: [@ivangaona92](https://twitter.com/ivangaona92)
-- LinkedIn: [https://www.linkedin.com/in/ivan-linares-gaona/](https://www.linkedin.com/in/ivan-linares-gaona/)
-
-Give a ⭐️ if you like this project!
-
+GitHub: @ivaan1992
+Twitter: @ivangaona92
+LinkedIn: https://www.linkedin.com/in/ivan-linares-gaona/
+Give a star if you like this project!
 
 License This project has not been license.
-
