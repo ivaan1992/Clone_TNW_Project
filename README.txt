@@ -1,81 +1,44 @@
-Exo 2 Variable Font
-===================
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This download contains Exo 2 as both variable fonts and static fonts.
+TNW Clone
 
-Exo 2 is a variable font with this axis:
-  wght
+>This is my second web page.
 
-This means all the styles are contained in these files:
-  Exo2-VariableFont_wght.ttf
-  Exo2-Italic-VariableFont_wght.ttf
+screenshot
 
-If your app fully supports variable fonts, you can now pick intermediate styles
-that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Exo 2:
-  static/Exo2-Thin.ttf
-  static/Exo2-ExtraLight.ttf
-  static/Exo2-Light.ttf
-  static/Exo2-Regular.ttf
-  static/Exo2-Medium.ttf
-  static/Exo2-SemiBold.ttf
-  static/Exo2-Bold.ttf
-  static/Exo2-ExtraBold.ttf
-  static/Exo2-Black.ttf
-  static/Exo2-ThinItalic.ttf
-  static/Exo2-ExtraLightItalic.ttf
-  static/Exo2-LightItalic.ttf
-  static/Exo2-Italic.ttf
-  static/Exo2-MediumItalic.ttf
-  static/Exo2-SemiBoldItalic.ttf
-  static/Exo2-BoldItalic.ttf
-  static/Exo2-ExtraBoldItalic.ttf
-  static/Exo2-BlackItalic.ttf
 
-Get started
------------
+/home/ivan/Documentos/Project 2/images/screenshot-P2.png
 
-1. Install the font files you want to use
 
-2. Use your app's font picker to view the font family and all the
-available styles
+=======
+## TNW PAGE
+>>>>>>> 59e51ca678b4a9438eb9093a9e3bfe9258641ac9
 
-Learn more about variable fonts
--------------------------------
 
-  https://developers.google.com/web/fundamentals/design-and-ux/typography/variable-fonts
-  https://variablefonts.typenetwork.com
-  https://medium.com/variable-fonts
+>This is my second web page cloned. I made it only with HTML & CSS. This project focus in making a project in different sizes.
+ 
+## Built With
 
-In desktop apps
+-HTML & CSS
 
-  https://theblog.adobe.com/can-variable-fonts-illustrator-cc
-  https://helpx.adobe.com/nz/photoshop/using/fonts.html#variable_fonts
+## Live Demo
 
-Online
+https://ivaan1992.github.io/Clone_TNW_Project/
 
-  https://developers.google.com/fonts/docs/getting_started
-  https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide
-  https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts
+If you click in the link, you can see and read my project.
+It's a very interesting article. And you can see HTML & CSS skills working together. Is awasome. 
 
-Installing fonts
 
-  MacOS: https://support.apple.com/en-us/HT201749
-  Linux: https://www.google.com/search?q=how+to+install+a+font+on+gnu%2Blinux
-  Windows: https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows
+## Authors
 
-Android Apps
+👤 ISMAEL IVAN LINARES GAONA
 
-  https://developers.google.com/fonts/docs/android
-  https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts
+- GitHub: [ @ivaan1992](https://github.com/ivaan1992)
+- Twitter: [@ivangaona92](https://twitter.com/ivangaona92)
+- LinkedIn: [https://www.linkedin.com/in/ivan-linares-gaona/](https://www.linkedin.com/in/ivan-linares-gaona/)
 
-License
--------
-Please read the full license text (OFL.txt) to understand the permissions,
-restrictions and requirements for usage, redistribution, and modification.
+Give a ⭐️ if you like this project!
 
-You can use them freely in your products & projects - print or digital,
-commercial or otherwise. However, you can't sell the fonts on their own.
 
-This isn't legal advice, please consider consulting a lawyer and see the full
-license for all details.
+License This project has not been license.
+
