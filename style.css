@@ -270,6 +270,7 @@ background-color: white;
 margin-top: 0px;
 position: relative;
 width: 50%;
+
 display: flex;
 justify-content: flex-start;
 align-items: stretch;
@@ -323,7 +324,6 @@ ard-title img {
   margin: 0;
   font-size: 15px;
   width: 100%;
-  height: 80px;
 }
 
 .paragraph {
