@@ -26,8 +26,11 @@ This is my second project using HTML & CSS.
 ISMAEL IVAN LINARES GAONA
 
 GitHub: @ivaan1992
+
 Twitter: @ivangaona92
+
 LinkedIn: https://www.linkedin.com/in/ivan-linares-gaona/
+
 Give a star if you like this project!
 
 ## License 
