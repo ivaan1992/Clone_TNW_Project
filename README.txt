@@ -4,14 +4,11 @@ NTW Clone
 
 This is my second web page clone. It was made only with CSS and HTML. 
 
-
-/home/ivan/Documentos/Project 2/images/Screenshot-P2.png
-
-
-
+![Screenshot](/home/ivan/Documentos/Project 2/images/Screenshot-P2.png)
 
 
 This is my second project. It shows us different sizes. I made it only with HTML & CSS. 
+I worked alone in this project. 
 
 Built With
 -HTML & CSS
