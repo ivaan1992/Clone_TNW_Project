@@ -23,7 +23,7 @@ This is my second project using HTML & CSS.
 
 
 ## Authors
-bust_in_silhouette ISMAEL IVAN LINARES GAONA
+ISMAEL IVAN LINARES GAONA
 
 GitHub: @ivaan1992
 Twitter: @ivangaona92
