@@ -5,13 +5,13 @@ NTW Clone
 This is my second web page clone. It was made only with CSS and HTML. 
 
 
-file:///home/ivan/Documentos/Project%202/images/screenshot-P2_modificada.png
+/home/ivan/Documentos/Project 2/images/Screenshot-P2.png
 
 
 
 
 
-This is my first web page cloned. I made it only with HTML & CSS. This project focus give many sizes to a web page.
+This is my second project. It shows us different sizes. I made it only with HTML & CSS. 
 
 Built With
 -HTML & CSS
