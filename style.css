@@ -169,6 +169,12 @@ nav {
   transition: all 0.25s;
 }
 
+.final-subtitle :hover {
+  background: transparent;
+  color: black;
+  transition: all 0.25s;
+}
+
 .search button :hover {
   background: transparent;
   color: #3a3a3a;
@@ -188,6 +194,10 @@ nav {
   display: flex;
   border-top: 30px;
   max-height: 55.7vh;
+}
+
+.show-when-small {
+  display: none;
 }
 
 .article-1 {
@@ -378,7 +388,7 @@ nav {
   height: 200px;
   overflow: hidden;
   position: relative;
-  filter:brightness(0.6);
+  filter: brightness(0.6);
   margin-top: 1%;
 }
 
@@ -386,9 +396,8 @@ nav {
   width: 100%;
 }
 
-
 .txt {
-  width:250px;
+  width: 250px;
   position: absolute;
   top: 80px;
   background-color: transparent;
@@ -403,11 +412,6 @@ nav {
   color: white;
   margin-left: 0;
   font-size: 20px;
-}
-
-.subtitle-links {
-  color:white;
-
 }
 
 .column-down {
@@ -431,7 +435,6 @@ nav {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 15px;
   color: red;
-
 }
 
 .c-link a {
@@ -440,39 +443,12 @@ nav {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 13px;
   color: #b8b8b8;
-  transition: all .2s;
+  transition: all 0.2s;
 }
 
 .c-link {
   border-bottom: 1px solid #b8b8b8;
   transition: all 0.25s;
-
-}
-
-.c-link:hover a{
-  color: black;
-}
-
-.column-links {
-  list-style: none;
-  padding: 0;
-}
-
-.column-links li::before {
-  content: "\2022";  
-  color: red; 
-  font-weight: bold;
-  display: inline-block; 
-  width: 1em; 
-}
-
-
-
-/* Latest deals */
-.final-title {
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
 }
 
 .final-title a {
@@ -486,12 +462,50 @@ nav {
   margin-left: 30px;
 }
 
-.final-subtitle :hover {
-  background: transparent;
-  color: black;
-  transition: all 0.25s;
+.end a {
+  height: 1rem;
+  width: 3rem;
 }
 
+.c-link:hover a {
+  color: black;
+}
+
+.column-links {
+  list-style: none;
+  padding: 0;
+}
+
+.column-links li::before {
+  content: "\2022";
+  color: red;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+}
+
+/* Latest deals */
+.final-title {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.st0 {
+  fill: #fff;
+}
+
+.st1 {
+  fill: url(#SVGID_1_);
+}
+
+.st2 {
+  fill: url(#SVGID_2_);
+}
+
+.st3 {
+  opacity: 0.5;
+}
 
 .deals {
   display: grid;
@@ -502,7 +516,7 @@ nav {
 
 .d1 {
   width: 100%;
-  margin:20px auto;
+  margin: 20px auto;
 }
 
 .d1 img {
@@ -510,9 +524,13 @@ nav {
   margin-left: 10%;
 }
 
-.d1 a {
-  text-decoration: none;
-  color: black;
+.unknown {
+  cursor: pointer;
+  background-color: #525252;
+  background-size: 1rem auto;
+  transition: all 0.2s;
+  width: 2rem;
+  height: 2rem;
 }
 
 /* Footer */
@@ -657,17 +675,9 @@ footer {
   background-color: black;
   color: white;
 }
-.end a {
-  height: 1rem;
-  width: 3rem;
-}
+
 .end a.stackpath {
   width: 5rem;
-}
-.end a img {
-  height: 100%;
-  margin-left: 50%;
-  margin-right: 50%;
 }
 
 .final-text {
@@ -680,10 +690,6 @@ footer {
 }
 
 .TNW {
-  display: none;
-}
-
-.show-when-small {
   display: none;
 }
 
@@ -720,31 +726,31 @@ footer {
 }
 
 @media screen and (max-width: 1024px) {
-
-  header{
+  header {
     display: flex;
     flex-direction: column;
   }
+
   header .about {
     width: 100% !important;
   }
 
-  .article-1{
+  .article-1 {
     width: 100%;
   }
+
   .article-1 .show-when-small {
     width: 100%;
   }
+
   .article2-3 {
     width: 100%;
   }
-  .article2-3 img {
-    width: 100% !important;
-  }
 
-  .principal{
+  .principal {
     width: unset;
   }
+
   .latest-funding {
     flex-direction: column;
   }
@@ -760,7 +766,7 @@ footer {
   }
 
   .article2-3 img {
-    width: 500px;
+    width: 100%;
   }
 
   .TNW {
@@ -773,15 +779,11 @@ footer {
   }
 
   .menu-hamburguer {
-    display:block;
+    display: block;
   }
 
   .show-when-big {
     display: none;
-  }
-
-  .show-when-small {
-    display: block;
   }
 
   .nav-sites {
@@ -824,13 +826,14 @@ footer {
     flex-direction: row;
     margin-left: unset;
     width: 100%;
-
   }
+
   .n1 > a img,
   .d1 > a img {
     height: 100%;
     width: unset;
   }
+
   .n1 > a,
   .d1 > a {
     overflow: hidden;
@@ -839,17 +842,18 @@ footer {
     align-items: center;
     height: 5rem;
     width: 40%;
-    margin: 0 .5rem;
+    margin: 0 0.5rem;
   }
 
-  .text-section{
+  .text-section {
     width: 80%;
   }
 
   .subtitle-links {
     flex-direction: column;
   }
-  .subtitle-links .info {
+
+  .subtitle-links.info {
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
@@ -861,5 +865,4 @@ footer {
     margin-left: unset;
     margin-right: unset;
   }
-
 }
