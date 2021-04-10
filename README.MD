@@ -1,5 +1,4 @@
 
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # TNW Project
@@ -23,15 +22,18 @@ If you click on the link, you can see and read my project.
 This is my second project using HTML & CSS. 
 
 
-##Authors
-bust_in_silhouette ISMAEL IVAN LINARES GAONA
+## Authors
+ISMAEL IVAN LINARES GAONA
 
 GitHub: @ivaan1992
+
 Twitter: @ivangaona92
+
 LinkedIn: https://www.linkedin.com/in/ivan-linares-gaona/
+
 Give a star if you like this project!
 
-##License 
+## License 
 This project has not been license.
-##About
+## About
 This is the second project for microverse.
